@@ -19,3 +19,8 @@ http://www.cs.virginia.edu/~robins/The_Limits_of_Quantum_Computers.pdf
 Look up Proceedings of the royal society A
 Look up mechanical computers
 
+# Notes
+Experimental Investigations of the Utility of Detailed Flowcharts in Programming 
+Conducted well written experiments and glad they were multiple in each section of programming 
+leaves open ended nd doesnt put his opinion in which i liked, presented the resuklts and left for you to decide, even said not enough evidence to conclude any result 
+Gives actual statistics and diagrams 
